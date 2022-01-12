@@ -10,4 +10,4 @@ Pillow
 
 Images are required to display.
 
-Images credit pending.
+Credit pending.
